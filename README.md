@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Sprayman
-  Just if you know i'm a murder drones fan, I can found bugs easily. Touchguild update because of me (maybe) Touchguild update because of me (maybe) BACK TO THE TOPI-
-- 🌱 I’m currently learning TouchGuild
-- 📫 sprayman1234555@gmail.com
+# About me
+:computer: I'm a programmer, gamer, and also a __Social Network Analysis (SNA)__  
+:floppy_disk: Currently working on:
+- 🧣 [Database for multiple schools](https://sprayman-fiiiowner.github.io/Database-for-multiple-schools)
 
-![FIII Development](https://github.com/user-attachments/assets/eaf05f6d-9773-400d-b5dd-b085b0d592a6)
+:seedling: Currently learning:
+- JavaScript
+- php
 
+:ninja: Currently mastering:
+- Luau
+- html
 <!---
 Sprayman-FIIIOwner/Sprayman-FIIIOwner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
